@@ -16,6 +16,7 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 .hero-page-button:hover,
 .hero-page-button.hero-page-button:focus {
